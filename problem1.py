@@ -5,7 +5,7 @@
 ## First line integer n (number of scores)
 ## second line n space-separated integers A[i]
 ## ouput:
-Runner-up score(integer)
+## Runner-up score(integer)
 ## HackerRank link: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 ## solution:
 if __name__ == '__main__':
