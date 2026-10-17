@@ -1,4 +1,4 @@
-## problem: Find the Runner-up score!
+## problem: Find the Runner-up score
 ## Task:
 ## Given participate scores,print the runner-up score(second highest)
 ##Input:
